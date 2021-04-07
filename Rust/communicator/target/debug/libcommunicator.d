@@ -1,0 +1,1 @@
+D:\What_I_did_today\Rust\communicator\target\debug\libcommunicator.rlib: D:\What_I_did_today\Rust\communicator\src\client.rs D:\What_I_did_today\Rust\communicator\src\lib.rs D:\What_I_did_today\Rust\communicator\src\network\mod.rs D:\What_I_did_today\Rust\communicator\src\network\server.rs
